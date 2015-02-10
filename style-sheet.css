@@ -1,0 +1,42 @@
+body { 
+  font-family: 'Trebuchet MS', sans-serif; 
+  margin: 20px;
+}
+
+
+h1 {
+  font-size: 100%;
+  color: purple;
+}
+
+
+h3 {
+  font-size: 80%;
+}
+
+
+p {
+  line-height: 1.1;
+  font-size: 65%;
+}
+
+
+div {
+  font-weight: lighter;
+}
+
+
+a.none {
+  font-decoration: none;
+}
+
+
+img {
+  align-self: center;
+  background-color: purple;
+  padding: 20px;
+}
+
+p.brd {
+  border: 1px solid black;
+}
